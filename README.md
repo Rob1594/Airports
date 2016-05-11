@@ -1,4 +1,4 @@
-<img src="http://3.bp.blogspot.com/-fKTKY3P8Ie0/U74Ufh1kIhI/AAAAAAAAAdI/TJyapM-vsSo/s1600/InfiniteFlightLogo450x180.png" />
+<img src="https://raw.githubusercontent.com/InfiniteFlightAirportEditing/Airports/master/ifae-banner.png" />
 
 Welcome to Infinite Flight Airport Editing!
 ===================
@@ -32,6 +32,6 @@ One last thing...
 ==================
 We appreciate every contribution that is made! Thank you very much to each person that contributes, you are really helping to make the Infinite Flight world a better place.
 <br><br>
-Airport editing run by Cameron Carmichael Alonso and Jonathan Perkins.
+Airport editing run by Cameron Carmichael Alonso, Jonathan Perkins and David Cutler.
 <br><br>
-<strong>Note: by submitting anything to this project, you are bound by the <a href="https://github.com/InfiniteFlightAirportEditing/Airports/blob/master/CONTRIBUTOR%20LICENSE">Contributor License Agreement</a>.</strong>
+<strong>Note: by submitting anything to this project, you are bound by the <a href="https://www.clahub.com/agreements/InfiniteFlightAirportEditing/Airports">Contributor License Agreement</a>.</strong>
